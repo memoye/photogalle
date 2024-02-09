@@ -1,0 +1,10 @@
+{
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "semi": false,
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "tailwindConfig": "./tailwind.config.js",
+  "tailwindFunctions": ["clsx", "cva"],
+  "plugins": ["prettier-plugin-tailwindcss"]
+}
